@@ -12,7 +12,7 @@ It also uses the [**Lanyard API**](https://github.com/Phineas/lanyard) to track 
 To clone this repository:
 
 ```bash
-git clone https://github.com/realaiden/website.git
+git clone https://github.com/am8x/website.git
 cd website
 npm install
 npm run dev
