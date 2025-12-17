@@ -7,7 +7,7 @@ export const HeroSection: React.FC = () => {
     <div className="section-container">
       <FadeIn className="padding-y-5">
         <h1 className="section-title">
-          Hi, I’m Aiden, an 18 year old <span className="text-highlight">Junior Frontend Developer</span> from Algeria.
+          Hi, I’m Amix, an 18 year old <span className="text-highlight">Junior Frontend Developer</span> from Algeria.
         </h1>
         <p className="section-description">
           I’m a junior frontend developer with a strong passion for building clean and responsive web interfaces. My interest in coding began when I was 13, and at 17 I started learning seriously. I’m still learning and improving every day, focusing on modern frontend technologies and growing into a skilled, reliable developer.
